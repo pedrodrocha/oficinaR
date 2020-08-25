@@ -7,4 +7,6 @@ navbar:
   right:
     - icon: fab fa-github
       href: https://github.com/pedrodrocha/oficinar.github.io
+twitter:
+  site: "@pedro_drocha"
 output: distill::distill_article
