@@ -9,4 +9,6 @@ navbar:
       href: https://github.com/pedrodrocha/oficinar.github.io
 twitter:
   site: "@pedro_drocha"
-output: distill::distill_article
+output:
+  distill::distill_article:
+    css: styles.css

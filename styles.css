@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+h1, h2, h3, h4, h5, h6{
+
+  font-family: "Montserrat";
+  letter-spacing: 2px;
+  line-height: 2rem; /* increases, so wrapping headers don't overlap */
+  font-weight: 300;
+
+
+}
+
+html, body {
+
+  font-family: 'Montserrat';
+  font-weight: 200;
+  line-height: 1.3;
+  font-size: 1.0em;
+  color: #333333;
+  font-style: normal;
+
+}
+
+
