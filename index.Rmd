@@ -1,8 +1,14 @@
 ---
 title: "Introdução ao R e a métodos computacionais aplicados aos estudos de Defesa e Segurança Internacional"
 description: |
-  Oficina oferecida em meio ao I Simpósio de Iniciação Científica e Extensão em Estudos de Defesa (SICEDef) nos dias 02 e 03 de Setembro de 2020
+  Oficina oferecida em meio ao I Simpósio de Iniciação Científica e Extensão em Estudos de Defesa (SICEDef) entre os dias 02 e 03 de Setembro de 2020
 site: distill::distill_website
 ---
+
+<p style="text-align:justify"><b>Prof.:</b> Me. Pedro D. Rocha </p>
+
+<p style="text-align:justify"><b>Filiação:</b> Doutorando no PPGRI - "Santiago Dantas" (Unesp-Unicamp-PUC/SP)
 <p style="text-align:justify">
 <b>Descrição:</b> A oficina fará uma apresentação de métodos computacionais aplicados às Ciências Sociais e da lógica de programação em R, de modo a desbravar mecanismos de coleta, tratamento e análise de grandes quantidades de dado. Serão contemplados, de forma introdutória, as três principais fases de um projeto em Ciência de Dados: (a) coleta e importação de dados; (b) transformação, modelagem e visualização de dados. (c) comunicação dos resultados encontrados. Ao final, espera-se que os participantes: (1) Tenham uma visão panorâmica da ciência de dados e seus desafios para a sociedade contemporânea e para as ciências sociais; (2) Conheçam o básico da lógica de programação em R; (3) Conheçam os caminhos para adquirir dados (de forma estruturada e não estruturada), processar dados, armazenar dados e convertê-los em formato adequado para sua análise; (4) Tenham uma visão panorâmica da gramática dos gráficos (<i>grammar of graphics</i>), e conheçam as possibilidades de visualização de dados em R. </p>
+
+Acesse os slides [aqui](https://oficinar.netlify.app/)
