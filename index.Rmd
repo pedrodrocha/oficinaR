@@ -14,5 +14,5 @@ site: distill::distill_website
 
 ### Slides / Apresenta&ccedil;&atilde;o
 ```{r embed-xaringan, echo=FALSE}
-xaringanExtra::embed_xaringan(url = "https://oficinar.netlify.app/#1", ratio = "4:3")
+xaringanExtra::embed_xaringan(url = "https://oficinar.netlify.app/#1", ratio = "16:9")
 ```
