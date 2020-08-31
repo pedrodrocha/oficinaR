@@ -1,9 +1,10 @@
 ---
 title: "Introdução ao R e a métodos computacionais aplicados aos estudos de Defesa e Segurança Internacional"
 description: |
-  Oficina oferecida em meio ao I Simpósio de Iniciação Científica e Extensão em Estudos de Defesa (SICEDef) entre os dias 02 e 03 de Setembro de 2020
+  Oficina oferecida em meio ao I Simpósio de Iniciação Científica e Extensão em Estudos de Defesa (<a href="https://lesd.irid.ufrj.br/eventos/simposio-de-iniciacao-cientifica-e-extensao-em-estudos-de-defesa/" target="_blank" class="link-subtitle">SICEDef</a>) entre os dias 02 e 03 de Setembro de 2020
 site: distill::distill_website
 ---
+
 
 <p style="text-align:justify"><b>Prof.:</b> Me. <a href="http://pedrodrocha.com/" target="_blank">Pedro D. Rocha</a> </p>
 

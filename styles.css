@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat');
 
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h4, h5, h6, .d-title, .title {
 
   font-family: "Montserrat";
   letter-spacing: 2px;
@@ -25,3 +25,11 @@ html, body {
   background-color: #9a8c98;
 
 }
+
+.link-subtitle {
+  color:#333333;
+  text-decoration-color: #b0b0b0;
+  text-underline-position: under;
+}
+
+
